@@ -15,6 +15,7 @@
 		1F70FC2C24FCE95B00FAEB6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F70FC2A24FCE95B00FAEB6B /* LaunchScreen.storyboard */; };
 		1F70FC3724FCE95C00FAEB6B /* SwiftUIDay6Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F70FC3624FCE95C00FAEB6B /* SwiftUIDay6Tests.swift */; };
 		1F70FC4224FCE95C00FAEB6B /* SwiftUIDay6UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F70FC4124FCE95C00FAEB6B /* SwiftUIDay6UITests.swift */; };
+		1F70FC5024FCEA2400FAEB6B /* aldanaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F70FC4F24FCEA2400FAEB6B /* aldanaView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1F70FC3D24FCE95C00FAEB6B /* SwiftUIDay6UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIDay6UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F70FC4124FCE95C00FAEB6B /* SwiftUIDay6UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDay6UITests.swift; sourceTree = "<group>"; };
 		1F70FC4324FCE95C00FAEB6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F70FC4F24FCEA2400FAEB6B /* aldanaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aldanaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1F70FC1F24FCE95A00FAEB6B /* AppDelegate.swift */,
 				1F70FC2124FCE95A00FAEB6B /* SceneDelegate.swift */,
 				1F70FC2324FCE95A00FAEB6B /* ContentView.swift */,
+				1F70FC4F24FCEA2400FAEB6B /* aldanaView.swift */,
 				1F70FC2524FCE95B00FAEB6B /* Assets.xcassets */,
 				1F70FC2A24FCE95B00FAEB6B /* LaunchScreen.storyboard */,
 				1F70FC2D24FCE95B00FAEB6B /* Info.plist */,
@@ -270,6 +273,7 @@
 				1F70FC2024FCE95A00FAEB6B /* AppDelegate.swift in Sources */,
 				1F70FC2224FCE95A00FAEB6B /* SceneDelegate.swift in Sources */,
 				1F70FC2424FCE95A00FAEB6B /* ContentView.swift in Sources */,
+				1F70FC5024FCEA2400FAEB6B /* aldanaView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
